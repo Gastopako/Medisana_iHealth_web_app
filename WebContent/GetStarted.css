@@ -1,0 +1,117 @@
+h1 {
+  border-style:none;
+  color:#A61016;
+  font-size:40px;
+  text-align:center;
+  margin-top: 0px;
+  height:"70px";
+  font-family:"Segoe UI Semibold";
+} 
+
+.input {
+    border: 1px solid #006;
+    background: #ffc;
+}
+
+           .button_Medisana 
+            {
+               	background-color:#0D818E;
+	            border-radius:30px;
+	            border:2px solid #0D6C77;
+	            display:inline-block;
+	            cursor:pointer;
+                color:white;
+	            font-family:'Segoe UI';
+	            font-size:24px;
+	            padding:5px 5px;
+	            text-decoration:none;
+                width: 280px;
+                height: 70px;
+                float: left;
+                text-align: center;
+                display: table-cell;
+                vertical-align: middle;
+                margin-right: 10px;
+                margin-left: 10px;
+                margin-top: 10px;
+                margin-bottom: 10px;  
+                white-space: normal;
+                font-weight:500;             
+            }
+           .button_Medisana:hover 
+            {
+                background-color:#005CB8;
+                border-radius:26px;
+                border:2px solid #005CB8;           
+            }
+           .button_Medisana:active 
+           {
+	            position:relative;
+	            top:1px;
+           }
+           
+                          
+           .button_iHealth 
+            {
+               	background-color:#CC3300;
+	            border-radius:30px;
+	            border:2px solid #990000;
+	            display:inline-block;
+	            cursor:pointer;
+                color:white;
+	            font-family:'Segoe UI';
+	            font-size:24px;
+	            padding:5px 5px;
+	            text-decoration:none;
+                width: 280px;
+                height: 70px;
+                float: left;
+                text-align: center;
+                display: table-cell;
+                vertical-align: middle;
+                margin-right: 10px;
+                margin-left: 10px;
+                margin-top: 10px;
+                margin-bottom: 10px;  
+                white-space: normal;
+                font-weight:500;             
+            }
+           .button_iHealth:hover 
+            {
+                background-color:#B82E00;
+                border-radius:26px;
+                border:2px solid #B82E00;           
+            }
+           .button_iHealth:active 
+           {
+	            position:relative;
+	            top:1px;
+           }
+           
+           
+.button_div
+{
+   position:relative;
+   width:1700px;
+   height:30px;
+/*    border:1px solid; */
+   text-align:center;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   margin-bottom: 40px;
+} 
+
+
+.title_div
+{
+   position:relative;
+   width:1700px;
+   height:30px;
+/*    border:1px solid; */
+   text-align:center;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   margin-bottom: 40px;
+}   

@@ -1,0 +1,144 @@
+h1{
+  border-style:none;
+  color:#A61016;
+  font-size:40px;
+  text-align:center;
+  margin-top: 0px;
+  height:"70px";
+  font-family:"Segoe UI Semibold";
+} 
+
+
+h2{
+  border-style:none;
+  color:black;
+  font-size:20px;
+  text-align:left;
+  margin-top: 0px;
+  height:"40px";
+  font-family:"Segoe UI Semibold";
+} 
+
+.input {
+    border: 1px solid #006;
+    background: #ffc;
+}
+
+
+            .button 
+            {
+               	background-color:#0D818E;
+	            border-radius:30px;
+	            border:2px solid #0D6C77;
+	            display:inline;
+	            cursor:pointer;
+                color:white;
+	            font-family:'Segoe UI';
+	            font-size:20px;
+	            padding:5px 5px;
+	            text-decoration:none;
+                width: 140px;
+                height: 70px;
+                text-align: center;
+                vertical-align: middle;
+                margin-right: 10px;
+                margin-left: 10px;
+                margin-top: 10px;
+                margin-bottom: 10px;  
+                white-space: normal;
+                font-weight:600;                
+                position:relative;       
+            }
+           .button:hover 
+            {
+                background-color:#005CB8;
+                border-radius:26px;
+                border:2px solid #005CB8;           
+            }
+           .button:active 
+           {
+	            position:relative;
+	            top:1px;
+           }
+           
+           
+           .tftable {font-size:16px;font-weight:bold;color:#FFFFFF;font-family:'Segoe UI';border-width:1px;border-color:#FFFFFF;border-collapse:collapse;text-align:center; margin-left: auto;margin-right: auto;}
+           .tftable th {font-size:16px;font-family:'Segoe UI';background-color:#0D818E;border-width:1px;padding:8px;border-style:solid;border-color:#005CB8;text-align:center;}
+           .tftable tr {background-color: #005CB8;}
+           .tftable td {font-size:15px;font-family:'Segoe UI';font-weight:bold;color:#333333;background-color:#CBEBF1;border-width:1px;padding:8px;border-style:solid;border-color:#005CB8;}
+           .tftable th:hover {background-color:#005CB8;text-decoration:underline;}
+
+           .tftable th.unclickable_rule {background-color: #0D818E;}
+           .tftable th.unclickable_rule:hover {background-color: #0D818E;text-decoration:none;}
+           
+            .hide {
+            display: none;
+        }
+           .show {
+            display: block;
+        }       
+        
+.button_div
+{
+   position:relative;
+   width:1700px;
+   height:30px;
+/*    border:1px solid; */
+   text-align:center;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   margin-bottom: 40px;
+}   
+        
+.chart_div
+{
+  position:relative;	
+  width: 1700px;
+  height:500px;
+  display: block;
+  text-align:center;
+/*   border:1px solid; */
+  margin-left: auto;
+  margin-right: auto; 
+  margin-bottom: 40px;
+}
+     
+.table_div
+{
+  position:relative;	
+  width: 1700px;
+  height:500px;
+  display: block;
+  text-align:center;
+/*   border:1px solid; */
+  margin-left: auto;
+  margin-right: auto; 
+}      
+     
+.title_div
+{
+   position:relative;
+   width:1700px;
+   height:30px;
+/*    border:1px solid; */
+   text-align:center;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   margin-bottom: 40px;
+}    
+
+
+.info_div
+{
+   position:relative;
+   width:1700px;
+   height:30px;
+/*   border:1px solid; */
+   text-align:center;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   margin-bottom: 40px;
+}         
